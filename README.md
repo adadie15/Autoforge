@@ -4,7 +4,7 @@ An index of object-oriented autonomy tools and algorithms (examples include kalm
 ![CBF Engine Test](https://andrewadie.com/wp-content/uploads/2026/05/cbf_engine_test.gif)
 
 
-[CBF_Engine](github.com/adadie15/CBF_Engine)
+[CBF_Engine](https://github.com/adadie15/CBF_Engine)
 
 A lighteweight CBF engine used to simulate autonomy trajectories
 
